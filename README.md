@@ -50,8 +50,8 @@ Raw datasets include:
 ### 3. **Data Modeling (Power BI)**
 - Star schema design for performance and clarity.  
 - A **secondary relationship** was implemented between `d_wslsurfers` and `f_wslevents` to calculate finals reached per surfer.  
-- The `USERELATIONSHIP()` DAX function activates this relationship when required.  
-- Alternative → create an additional dimension table, but the chosen approach is simpler and cleaner for this dataset.  
+  - The `USERELATIONSHIP()` DAX function activates this relationship when required.  
+  - Alternative → create an additional dimension table, but the chosen approach is simpler and cleaner for this dataset.  
 
 ### 4. **Visualization (Power BI Dashboard)**
 - Two main report pages:  

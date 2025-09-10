@@ -1,6 +1,8 @@
 # SurfAnalytics 🏄‍♂️📊  
 **World Surf League Data Analysis with Databricks & Power BI**
 
+[](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/WSL%202.jpg)
+
 ---
 
 ## 📌 Project Overview  
@@ -51,7 +53,9 @@ Raw datasets include:
 - Star schema design for performance and clarity.  
 - A **secondary relationship** was implemented between `d_wslsurfers` and `f_wslevents` to calculate finals reached per surfer.  
   - The `USERELATIONSHIP()` DAX function activates this relationship when required.  
-  - Alternative → create an additional dimension table, but the chosen approach is simpler and cleaner for this dataset.  
+  - Alternative → create an additional dimension table, but the chosen approach is simpler and cleaner for this dataset.
+ 
+![📌 Model in the Dashboard:](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/modelo.png)
 
 ### 4. **Visualization (Power BI Dashboard)**
 Two main report pages:  
@@ -59,16 +63,22 @@ Two main report pages:
 #### 🏆 **WSL Champions**
 - List of all world champions since 1976.  
 - Top 3 surfers with the most world titles.  
-- Nationalities with the highest number of championships.  
+- Nationalities with the highest number of championships.
+
+![📌 WSL Champions Tab:](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/WSL%20Champions.png)
 
 #### 🌍 **WSL Events**
 - CT events from 2011 to 2024.  
 - Top 3 surfers with most event wins.  
 - Nationalities with the most event titles.  
-- Full event list with filters (e.g., “Brazilian titles only” or “best-performing surfer per location”).  
+- Full event list with filters (e.g., “Brazilian titles only” or “best-performing surfer per location”).
+
+![📌 WSL Events Tab:](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/Wsl%20Events.png)
 
 💡 **Tooltip Feature**:  
 Hovering on champions or events provides extra surfer details, enhancing the analysis depth.  
+
+![📌 WSL Tooltip Feature:](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/WSL%20tooltip.png)
 
 ---
 

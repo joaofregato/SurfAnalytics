@@ -1,7 +1,6 @@
 # SurfAnalytics 🏄‍♂️📊  
 **World Surf League Data Analysis with Databricks & Power BI**
 
-[](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/WSL%202.jpg)
 
 ---
 
@@ -65,6 +64,7 @@ Two main report pages:
 - Top 3 surfers with the most world titles.  
 - Nationalities with the highest number of championships.
 
+*📌 WSL Champions Tab*:
 ![📌 WSL Champions Tab:](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/WSL%20Champions.png)
 
 #### 🌍 **WSL Events**
@@ -73,11 +73,13 @@ Two main report pages:
 - Nationalities with the most event titles.  
 - Full event list with filters (e.g., “Brazilian titles only” or “best-performing surfer per location”).
 
+*📌 WSL Events Tab*:
 ![📌 WSL Events Tab:](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/Wsl%20Events.png)
 
 💡 **Tooltip Feature**:  
 Hovering on champions or events provides extra surfer details, enhancing the analysis depth.  
 
+*📌 WSL Tooltip Feature*:
 ![📌 WSL Tooltip Feature:](https://github.com/joaofregato/SurfAnalytics/blob/main/imagens/WSL%20tooltip.png)
 
 ---

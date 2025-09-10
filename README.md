@@ -17,7 +17,7 @@
 - Showcase practical proficiency in:  
   - **Power BI** (data modeling, DAX, report design)  
   - **Databricks** (ETL & SQL processing)  
-  - **GitHub** (project documentation & version control).  
+  - **GitHub** (project documentation).  
 
 ---
 

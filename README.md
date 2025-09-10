@@ -80,19 +80,15 @@ Hovering on champions or events provides extra surfer details, enhancing the ana
 │── /raw data         # Original datasets (CSV)
 │── /images           # Dashboard screenshots
 │── README.md         # Documentation
+````
 
+## 🚀 How to Use
 
-🚀 How to Use
-
-Clone/download this repository.
+Clone/download the file located in `/power bi` repository.
 
 Open SurfAnalytics.pbix in Power BI Desktop.
 
 Explore dashboards and interact with filters/tooltips.
-
-📸 Dashboard Preview
-
-(Add screenshots from your Power BI dashboard in /images folder)
 
 
 

@@ -54,7 +54,7 @@ Raw datasets include:
   - Alternative → create an additional dimension table, but the chosen approach is simpler and cleaner for this dataset.  
 
 ### 4. **Visualization (Power BI Dashboard)**
-- Two main report pages:  
+Two main report pages:  
 
 #### 🏆 **WSL Champions**
 - List of all world champions since 1976.  

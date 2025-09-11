@@ -1,7 +1,7 @@
 # SurfAnalytics 🏄‍♂️📊  
 **World Surf League Data Analysis with Databricks & Power BI**
 
-- **Confira o dashboard** 🧐 →  [SurfAnalytics BI](https://app.powerbi.com/view?r=eyJrIjoiMWI3ZGEzMGMtNGJhMC00NGI1LTk3NTYtYjg5Y2JhYjg3MTk0IiwidCI6ImZiYmE0ZjhmLWYzNmUtNDUzNC04ZWZiLThhOWU1ODU4YTk4ZSJ9)
+- **Check out the dashboard** 🧐 →  [SurfAnalytics BI](https://app.powerbi.com/view?r=eyJrIjoiMWI3ZGEzMGMtNGJhMC00NGI1LTk3NTYtYjg5Y2JhYjg3MTk0IiwidCI6ImZiYmE0ZjhmLWYzNmUtNDUzNC04ZWZiLThhOWU1ODU4YTk4ZSJ9)
 
 
 ---
